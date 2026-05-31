@@ -2,7 +2,7 @@
 
 [中文](README.md) [English](README_EN.md) 
 
-<div style="color: darkred; font-size: 20px;font-weight: bold">版本4.5后不再新增功能，仅做关键问题修复，目前逐步切换平台中</div>
+版本4.5后不再新增功能，仅做关键问题修复，目前逐步切换平台中，新项目请访问 [SuperConnectX](https://github.com/SuperStudio/SuperConnectX)
 
 
 <h1 align="center">SuperCom</h1>
